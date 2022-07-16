@@ -9,10 +9,10 @@ const mockPokemos = [
       measurementUnit: 'kg',
       value: '50',
     },
-    foundAt: {
+    foundAt: [{
       location: 'testeLocation',
       map: 'testeMap',
-    },
+    }],
     id: 1,
     image: 'teste.png',
     moreInfo: 'testeInfo',
@@ -25,10 +25,10 @@ const mockPokemos = [
       measurementUnit: 'kg',
       value: '60',
     },
-    foundAt: {
+    foundAt: [{
       location: 'testeLocation2',
       map: 'testeMap2',
-    },
+    }],
     id: 2,
     image: 'teste2.png',
     moreInfo: 'testeInfo2',
