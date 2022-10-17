@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# TrybeTunes Project
+Projeto desenvolvido para o curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
+
+Esse projeto foi desenvolvido com o intuito de fixar os conhecimentos aprendidos sobre React Testing Library
+
+---
+Project developed for the web developer course at [Trybe](https://www.betrybe.com/)
+
+This project was developed to fixate what I have learned about React Testing Lybrary
